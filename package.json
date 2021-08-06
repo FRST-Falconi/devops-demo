@@ -1,0 +1,25 @@
+{
+  "name": "devops.template-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRST-Falconi/devops.template-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRST-Falconi/devops.template-app/issues"
+  },
+  "homepage": "https://github.com/FRST-Falconi/devops.template-app#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "os": "^0.1.2"
+  }
+}
